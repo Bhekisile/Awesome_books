@@ -7215,3 +7215,5 @@ const VERSION = "3.3.0";
 
 export { DateTime, Duration, FixedOffsetZone, IANAZone, Info, Interval, InvalidZone, Settings, SystemZone, VERSION, Zone };
 //# sourceMappingURL=luxon.js.map
+
+export default './luxon';

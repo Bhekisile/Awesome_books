@@ -131,7 +131,8 @@ form h2 {
 .nav ul {
   display: flex;
   list-style: none;
-  width: 300px;
+  width: 220px;
+  margin-right: 30px;
   height: 20px;
   gap: 6px;
 }
@@ -139,8 +140,9 @@ form h2 {
 .date {
   display: flex;
   justify-content: flex-end;
-  margin-right: 8px;
+  margin-right: 20px;
   font-size: 16px;
+  /* position: fixed; */
 }
 
 .cont {
