@@ -56,7 +56,6 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need: 
 
 Live Server
-npm
 
 ### Setup
 
@@ -89,7 +88,8 @@ Live Server
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- ** **
+- **Regularly updated books**
+- **Feature Images**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
