@@ -7,13 +7,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -25,9 +23,7 @@
 
 # 📖 [Awesome book] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Awesome book]** is the library website that allows users to add and remove books from the list.
+**[Awesome book]** is the library website that allows users to add and remove books from the list. There is a page for a list of books and the page where you can add any book into the library. There is also contact details whenever you want to contact us.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,18 +42,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Home Page]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- **[Current Date and Time]**
+- **[Single Page website]**
 
 <!-- GETTING STARTED -->
 
@@ -76,26 +62,16 @@ npm
 
 Clone this repository to your desired folder:
 
--git clone 
+-git clone my repository
 
 ### Install
 
-Install this project with:
-
+Install this project with: npm
 
 ### Usage
 
 To run the project, execute the following command:
 Live Server
-
-### Deployment
-
-You can deploy this project using: 
-
-Netlify
-Github Page
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -113,7 +89,7 @@ Github Page
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Login**
+- ** **
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +107,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project you hit like button or your comment is welcome.
+If you like this project please hit like button.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,8 +116,6 @@ If you like this project you hit like button or your comment is welcome.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse and the team for this opportunity.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
