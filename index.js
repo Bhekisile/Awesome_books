@@ -1,6 +1,5 @@
 import { DateTime } from './modules/luxon.js';
 import './modules/displayPage.js';
-// import './modules/bookCollection.js';
 
 import { displayBooks, addBook } from './modules/bookCollection.js';
 
