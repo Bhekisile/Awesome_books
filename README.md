@@ -1,4 +1,3 @@
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -23,7 +22,7 @@
 
 # 📖 [Awesome book] <a name="about-project"></a>
 
-**[Awesome book]** is the library website that allows users to add and remove books from the list. There is a page for a list of books and the page where you can add any book into the library. There is also contact details whenever you want to contact us.
+**[Awesome book]** is a single-page library project that allows the addition and removal of books. It contains pages for adding a book, a list of books and contact details.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +52,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: 
+In order to run this project you need:
 
 Live Server
 
@@ -61,11 +60,11 @@ Live Server
 
 Clone this repository to your desired folder:
 
--git clone my repository
+-git clone https://github.com/Bhekisile/Awesome_books/
 
 ### Install
 
-Install this project with: npm
+Install this project with: Live server
 
 ### Usage
 
@@ -77,10 +76,14 @@ Live Server
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Bhekisile Jozi**
-   **Maryam Bakhtawar**
+**Abdullah Nasser**
 
-- GitHub: [@githubhandle](https://github.com/bhekisile)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
+- GitHub: [@Bhekisile](https://github.com/bhekisile)
+- LinkedIn: [Bhekisile](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
+
+- GitHub: [Geekyhacks](https://github.com/GeekyHacks)
+- Twitter: [Geekydart](https://twitter.com/GeekyDart)
+- LinkedIn: [Abdullah Nasser](https://www.linkedin.com/in/abdullah-nasser-711625268/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,7 +91,6 @@ Live Server
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Regularly updated books**
 - **Feature Images**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
