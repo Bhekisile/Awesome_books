@@ -1,5 +1,5 @@
-const links = document.querySelectorAll('.links'); /// create array of element objects
-links.forEach((link) => { // loop through them
+const links = document.querySelectorAll('.links');
+export default links.forEach((link) => {
   link.addEventListener('click', function handleClick() {
     const list = document.getElementById('books-list');
     const form = document.getElementById('add-book');
@@ -22,5 +22,3 @@ links.forEach((link) => { // loop through them
     }
   });
 });
-
-export default links;

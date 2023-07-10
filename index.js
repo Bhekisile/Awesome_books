@@ -1,12 +1,9 @@
-import { DateTime } from './modules/luxon.js';
 import './modules/displayPage.js';
-
-import { displayBooks, addBook } from './modules/bookCollection.js';
+import { displayBooks, Book } from './modules/bookCollection.js';
+import today from './modules/time.js';
 
 const container = document.querySelector('.container');
 const addBtn = document.querySelector('#add');
-
-displayBooks(container);
 
 addBtn.addEventListener('click', (event) => {
   event.preventDefault();
@@ -15,18 +12,11 @@ addBtn.addEventListener('click', (event) => {
   const title = titleInput.value;
   const author = authorInput.value;
 
-  addBook(title, author);
+  Book.addBook(title, author);
   displayBooks(container);
 
   titleInput.value = '';
   authorInput.value = '';
 });
 
-const today = () => {
-  const dates = document.querySelectorAll('.date');
-  for (let i = 0; i < dates.length; i += 1) {
-    const today = DateTime.now().toFormat('MMMM dd yyyy, h:mm:ss a');
-    dates[i].innerHTML = today;
-  }
-};
-setInterval(today, 1000);
+today();
