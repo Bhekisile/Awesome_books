@@ -1,8 +1,6 @@
 let bookCollection = JSON.parse(localStorage.getItem('bookCollection')) || [];
 const container = document.querySelector('.container');
 
-const addBtn = document.querySelector('#add');
-
 class Book {
   constructor(title, author) {
     this.title = title;
